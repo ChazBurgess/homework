@@ -10,5 +10,5 @@ package com.mycompany.hithubassignment;
  * @author 4chaz
  */
 public class Main {
-    
+    // spelled Github with an h when making the project name # Hithub
 }
